@@ -1,6 +1,6 @@
 # Financial Analysis Tool
 
-![Financial Analysis Banner](Analysis/visualizations/monthly_profit_loss.png)
+![Financial Analysis Banner](images/monthly_profit_loss.jpg)
 
 ## Overview
 A comprehensive financial analysis tool that processes business financial records to calculate key business metrics, identify trends, and generate detailed reports with visualizations. This tool provides insights into profit/loss patterns, growth rates, and financial performance indicators.
