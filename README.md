@@ -1,5 +1,7 @@
 # Financial Analysis Tool
 
+> **Archived exercise.** This repository is kept as written. Its analysis now lives, tested and packaged, in **[python-data-fundamentals](https://github.com/Freddricklogan/python-data-fundamentals)** (`datafund` CLI, 14 tests, 100% coverage, [live report](https://freddricklogan.github.io/python-data-fundamentals/)); that repository's [AUDIT.md](https://github.com/Freddricklogan/python-data-fundamentals/blob/main/AUDIT.md) lists what this script got wrong and how the consolidated version handles it.
+
 ![Financial Analysis Banner](images/monthly_profit_loss.jpg)
 
 ## Overview
